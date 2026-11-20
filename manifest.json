@@ -1,0 +1,18 @@
+{
+  "name": "+Gym AT - Entreno & Nutrición",
+  "short_name": "+Gym AT",
+  "description": "Control de entrenamientos Hevy, nutrición, macros, pasos y progreso físico.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F6F6F4",
+  "theme_color": "#141414",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
